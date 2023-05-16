@@ -1,0 +1,26 @@
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.csproj.AssemblyReference.cache
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Home.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Properties.Resources.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.csproj.GenerateResource.cache
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.csproj.CoreCompileInputs.cache
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\bin\Debug\Atestat Informatica - Test Grile Chimie.exe.config
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\bin\Debug\Atestat Informatica - Test Grile Chimie.exe
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\bin\Debug\Atestat Informatica - Test Grile Chimie.pdb
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.exe
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.pdb
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Inregistrare.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Autentificare.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Start_Elev.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Start_Profesor.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Adaugare_Grila.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Modificare_Grila.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Grila.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\bin\Debug\MaterialSkin.dll
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.csproj.CopyComplete
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\bin\Debug\Atestat Informatica - Test Grile Chimie.exe.manifest
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\bin\Debug\Atestat Informatica - Test Grile Chimie.application
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.exe.manifest
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat Informatica - Test Grile Chimie.application
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Afisare_Grile.resources
+C:\Users\Darius\source\repos\Atestat Informatica - Test Grile Chimie\Atestat Informatica - Test Grile Chimie\obj\Debug\Atestat_Informatica___Test_Grile_Chimie.Vizualizare_Grila.resources
